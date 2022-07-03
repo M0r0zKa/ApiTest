@@ -1,0 +1,10 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+button{
+    border-radius: 10px;
+}
