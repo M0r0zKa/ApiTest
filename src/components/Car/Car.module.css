@@ -1,0 +1,20 @@
+.carBlock {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.carInfo {
+    border: 1px solid black;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonCarBlock button {
+    margin: 5px;
+}

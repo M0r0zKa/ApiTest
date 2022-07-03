@@ -1,9 +1,3 @@
-import {Car} from "./Car/Car";
-import {Cars} from "./Cars/Cars";
-import {CarForm} from "./CarForm/CarForm";
-
-export {
-    Car,
-    Cars,
-    CarForm
-}
+export * from "./Cars/Cars"
+export * from "./Car/Car"
+export * from "./CarForm/CarForm"
